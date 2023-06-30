@@ -6,7 +6,7 @@
 
 <h2>📺 LinkedIn Videos</h2>
 
-- [Configuring a Network](https://www.linkedin.com/posts/jetaun-cosby_cybersecurityjobs-cybersecuritylab-flatiron-activity-7078448446696804352--D5r?utm_source=share&utm_medium=member_desktop)
+- [Configuring A Network](https://www.linkedin.com/posts/jetaun-cosby_cybersecurityjobs-cybersecuritylab-flatiron-activity-7078448446696804352--D5r?utm_source=share&utm_medium=member_desktop)
 
 
 <h2> 🤳 Connect with me:</h2>
