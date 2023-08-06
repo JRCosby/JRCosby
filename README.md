@@ -7,7 +7,7 @@
 <h2>📺 LinkedIn Videos</h2>
 
 - [Configuring A Network](https://www.linkedin.com/posts/jetaun-cosby_cybersecurityjobs-cybersecuritylab-flatiron-activity-7078448446696804352--D5r?utm_source=share&utm_medium=member_desktop)
-
+- [Wireshark: HTTP and Netcat Lab](https://www.linkedin.com/posts/jetaun-cosby_cybersecurity-wireshark-netcat-activity-7093809342868586496-KT-U?utm_source=share&utm_medium=member_desktop)
 
 <h2> 🤳 Connect with me:</h2>
 
