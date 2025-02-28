@@ -11,7 +11,8 @@
 - [Installing Elastic SEIM on Kali Linux Machine](https://www.linkedin.com/posts/jetaun-cosby_installing-elastic-siem-on-kali-linux-machine-activity-7249070077109510148-T-cJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8yqxoB_XoBO5BofXNjTszbyLd1C-fWBqY)
 
 <h2> LinkedIn Blog<h2>
-  - [Network Basics](https://www.linkedin.com/pulse/network-basics-je-ta%C3%BAn-cosby-ih3wc/?trackingId=QjaTw%2FaMkxmuSJuVjE7e%2BQ%3D%3D)
+  
+- [Network Basics](https://www.linkedin.com/pulse/network-basics-je-ta%C3%BAn-cosby-ih3wc/?trackingId=QjaTw%2FaMkxmuSJuVjE7e%2BQ%3D%3D)
   
 <h2> 🤳 Connect with me:</h2>
 
